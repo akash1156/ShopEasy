@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color:#EEF1FF;
+}
+table{
+    position:relative;
+    left:35%;
+}
+td tr{
+    padding:4%;
+}
+h4{
+    padding:4%;
+}
+a{
+    color:crimson;
+}
+h3{
+    padding:4%;
+}
